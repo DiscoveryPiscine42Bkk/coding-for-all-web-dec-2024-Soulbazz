@@ -28,11 +28,11 @@ td {
 }
 
 .first-cell {
-    background-color: #90be6d;
+    background-color: #5100ff;
 }
 
 .second-cell {
-    background-color: #f896a4;
+    background-color: #a0a0a0;
 }
 
 @media (max-width: 768px) {
